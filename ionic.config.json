@@ -1,0 +1,7 @@
+{
+  "name": "demo-nfc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
